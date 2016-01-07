@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'intro_cond_Black';
+  src: url('../fonts/intro_cond_black_free-webfont.eot');
+  src: url('../fonts/intro_cond_black_free-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/intro_cond_black_free-webfont.woff2') format('woff2'),
+       url('../fonts/intro_cond_black_free-webfont.woff') format('woff'),
+       url('../fonts/intro_cond_black_free-webfont.ttf') format('truetype'),
+       url('../fonts/intro_cond_black_free-webfont.svg#intro_condblack_free') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'intro_cond_Light';
+  src: url('../fonts/intro_cond_light_free-webfont.eot');
+  src: url('../fonts/intro_cond_light_free-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/intro_cond_light_free-webfont.woff2') format('woff2'),
+       url('../fonts/intro_cond_light_free-webfont.woff') format('woff'),
+       url('../fonts/intro_cond_light_free-webfont.ttf') format('truetype'),
+       url('../fonts/intro_cond_light_free-webfont.svg#intro_condlight_free') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Helvetica_BdCn';
+	src: url('../fonts/HelveticaNeueLTStd.eot');
+  src: url('../fonts/HelveticaNeueLTStd-BdCn.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/HelveticaNeueLTStd-BdCn.woff2') format('woff2'),
+       url('../fonts/HelveticaNeueLTStd-BdCn.woff') format('woff'),
+       url('../fonts/HelveticaNeueLTStd-BdCn.ttf') format('truetype'),
+       url('../fonts/HelveticaNeueLTStd-BdCn.svg#intro_condlight_free') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
